@@ -14350,7 +14350,7 @@
         "worldScrollX": 1173,
         "worldScrollY": 518,
         "zoom": 214.8089599609375,
-        "customColorsEnabled": true,
+        "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
         "defaultBackgroundPaletteIds": [

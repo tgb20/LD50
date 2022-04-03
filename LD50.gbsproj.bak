@@ -12098,7 +12098,7 @@
         },
         {
             "name": "Game Over",
-            "backgroundId": "82e4ec94-be35-4a99-b8c6-a4e7c6bbd2b4",
+            "backgroundId": "4c8a2690-e536-440d-93b9-65d32b84b60e",
             "width": 20,
             "height": 18,
             "type": "POINTNCLICK",
@@ -13051,6 +13051,15 @@
         }
     ],
     "backgrounds": [
+        {
+            "id": "4c8a2690-e536-440d-93b9-65d32b84b60e",
+            "name": "gameover",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "gameover.png"
+        },
         {
             "id": "015f2aa7-560b-4a93-be69-9613efe5f221",
             "name": "na",
@@ -14338,8 +14347,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 720,
-        "worldScrollY": 266,
+        "worldScrollX": 1173,
+        "worldScrollY": 518,
         "zoom": 214.8089599609375,
         "customColorsEnabled": true,
         "sgbEnabled": false,
